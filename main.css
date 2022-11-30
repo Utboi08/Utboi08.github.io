@@ -1,4 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swaphttps://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+
+
 body{
     /* CSS goes here */
-    background-color: rgb(58, 208, 165);
+    background-color:blanchedalmond;
+    font-family: 'Poppins', sans-serif;;
+    font-size: 200%;
+    letter-spacing:1.5 px;
+    color:rgb(5, 37, 97);
+}
+
+h1 {
+    font-size: 300%;
+    margin: 0 auto;
+    width: 80%;
+    border: 30 px solid green;
+    padding: 20 px;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70%;
+    width: 60% ;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+a:hover,
+a:active{
+    color: blanchedalmond;
+    background-color: rgb(5, 37, 97);
+
+}
+
+.Intro {
+ margin-bottom: 40px;
 }
